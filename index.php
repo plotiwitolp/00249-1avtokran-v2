@@ -13,15 +13,7 @@
 <!-- END "Нам доверяют" -->
 
 <!-- START "Мы сдаем в аренду спецтехнику" -->
-<div class="topsingle">
-    <div class="container">
-        <div class="topsingle__inner">
-            <h2>Мы сдаем в аренду спецтехнику</h2>
-            <div class="topsingle__body">
-            </div>
-        </div>
-    </div>
-</div>
+<?php require_once './templates/forrent.php'; ?>
 <!-- END "Мы сдаем в аренду спецтехнику" -->
 
 <!-- START "Какие услуги мы оказываем" -->
