@@ -49,6 +49,15 @@
     });
     // end
     // start
+    $('.featuresofserv__list').slick({
+      infinite: true,
+      slidesToShow: 1,
+      slidesToScroll: 1,
+      prevArrow: $('.featuresofserv__slider-prev'),
+      nextArrow: $('.featuresofserv__slider-next'),
+    });
+    // end
+    // start
     $('.header-nav__mob-btn').on('click', function () {
       $(this).toggleClass('active');
       $('.header-nav nav').toggleClass('active');

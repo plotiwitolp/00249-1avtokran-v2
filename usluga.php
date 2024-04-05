@@ -5,7 +5,7 @@
 <!-- END "Хлебные крошки" -->
 
 <!-- START TOP -->
-<?php require_once './templates/top.php'; ?>
+<?php require_once './templates/top2.php'; ?>
 <!-- END TOP -->
 
 <!-- START "Наши преимущества" -->
@@ -13,31 +13,15 @@
 <!-- END "Наши преимущества" -->
 
 <!-- START "Особенности оказания услуги" -->
-<div class="topsingle">
-    <div class="container">
-        <div class="topsingle__inner">
-            <h2>Особенности оказания услуги</h2>
-            <div class="topsingle__body">
-            </div>
-        </div>
-    </div>
-</div>
+<?php require_once './templates/featuresofserv.php'; ?>
 <!-- END "Особенности оказания услуги" -->
 
 <!-- START "Какая спецтехника понадобиться в работе" -->
-<div class="topsingle">
-    <div class="container">
-        <div class="topsingle__inner">
-            <h2>Какая спецтехника понадобиться в работе</h2>
-            <div class="topsingle__body">
-            </div>
-        </div>
-    </div>
-</div>
+<?php require_once './templates/forrent2.php'; ?>
 <!-- END "Какая спецтехника понадобиться в работе" -->
 
 <!-- START "Какие услуги мы оказываем при помощи автокранов" -->
-<?php require_once './templates/service.php'; ?>
+<?php require_once './templates/service3.php'; ?>
 <!-- END "Какие услуги мы оказываем при помощи автокранов" -->
 
 <!-- START "ЭКСКЛЮЗИВНАЯ АКЦИЯ!" -->
@@ -53,7 +37,7 @@
 <!-- END "О компании" -->
 
 <!-- START "Фото с оказанием услуги" -->
-<?php require_once './templates/ourtech.php'; ?>
+<?php require_once './templates/ourtech2.php'; ?>
 <!-- END "Фото с оказанием услуги" -->
 
 <?php require_once './footer.php'; ?>
