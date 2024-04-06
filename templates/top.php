@@ -12,7 +12,7 @@
 
                 <div class="top__discount">
                     <div class="top__discount-icon">
-                        <img decoding="async" loading="lazy" src="./assets/img/top_icon-sale.svg" alt="sale">
+                        <img src="./assets/img/top_icon-sale.svg" alt="sale">
                     </div>
                     <div class="top__discount-text">Скидка -40% до 19 сентября!</div>
                 </div>

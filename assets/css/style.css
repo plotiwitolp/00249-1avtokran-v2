@@ -1855,6 +1855,14 @@ h1 {
   color: #dc6823;
 }
 
+.trustus__first {
+  max-width: 600px;
+}
+
+.trustus__second {
+  width: 100%;
+}
+
 .trustus__item a {
   display: -webkit-box;
   display: -ms-flexbox;

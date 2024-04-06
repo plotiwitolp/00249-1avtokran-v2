@@ -69,10 +69,10 @@
         </div>
     </div>
 </footer>
-<script src="./assets/libs/jquery/jquery-3.7.1.min.js" defer></script>
-<script src="./assets/libs/slick/slick.min.js" defer></script>
-<script src="./assets/libs/fancybox/jquery.fancybox.min.js" defer></script>
-<script src="./assets/js/script.js" defer></script>
+<script src="./assets/libs/jquery/jquery-3.7.1.min.js?v=2" defer></script>
+<script src="./assets/libs/slick/slick.min.js?v=2" defer></script>
+<script src="./assets/libs/fancybox/jquery.fancybox.min.js?v=2" defer></script>
+<script src="./assets/js/script.js?v=2" defer></script>
 </body>
 
 </html>

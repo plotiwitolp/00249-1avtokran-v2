@@ -9,21 +9,21 @@
                             <div class="topsingle__img-item">
                                 <div class="topsingle__img-wrap">
                                     <a href="./assets/img/topsingle_img_11zon.webp" data-fancybox="topsingle">
-                                        <img decoding="async" loading="lazy" src="./assets/img/topsingle_img_11zon.webp" alt="Аренда автокран Ивановец 14 тонн 14 метров">
+                                        <img src="./assets/img/topsingle_img_11zon.webp" alt="Аренда автокран Ивановец 14 тонн 14 метров">
                                     </a>
                                 </div>
                             </div>
                             <div class="topsingle__img-item">
                                 <div class="topsingle__img-wrap">
                                     <a href="./assets/img/topsingle_img_11zon.webp" data-fancybox="topsingle">
-                                        <img decoding="async" loading="lazy" src="./assets/img/topsingle_img_11zon.webp" alt="Аренда автокран Ивановец 14 тонн 14 метров">
+                                        <img src="./assets/img/topsingle_img_11zon.webp" alt="Аренда автокран Ивановец 14 тонн 14 метров">
                                     </a>
                                 </div>
                             </div>
                             <div class="topsingle__img-item">
                                 <div class="topsingle__img-wrap">
                                     <a href="./assets/img/topsingle_img_11zon.webp" data-fancybox="topsingle">
-                                        <img decoding="async" loading="lazy" src="./assets/img/topsingle_img_11zon.webp" alt="Аренда автокран Ивановец 14 тонн 14 метров">
+                                        <img src="./assets/img/topsingle_img_11zon.webp" alt="Аренда автокран Ивановец 14 тонн 14 метров">
                                     </a>
                                 </div>
                             </div>
@@ -65,7 +65,7 @@
                             </div>
                             <div class="topsingle__sale">
                                 <div class="topsingle__sale-icon">
-                                    <img decoding="async" loading="lazy" src="./assets/img/topsingle_icon-sale.svg" alt="Скидка 30% при заказе во второй половине дня">
+                                    <img src="./assets/img/topsingle_icon-sale.svg" alt="Скидка 30% при заказе во второй половине дня">
                                 </div>
                                 <div class="topsingle__sale-txt">Скидка 30% при заказе во второй половине дня</div>
                             </div>

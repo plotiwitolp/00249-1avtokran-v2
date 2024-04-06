@@ -11,9 +11,9 @@ $_PARENT_URL = '/00249-1avtokran-v2';
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
     <title>Project 00249</title>
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="./assets/libs/slick/slick.min.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="./assets/libs/fancybox/jquery.fancybox.min.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./assets/libs/fancybox/jquery.fancybox.min.css?v=2" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="./assets/libs/slick/slick.min.css?v=2" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="./assets/css/style.css?v=2">
 </head>
 
 <body>
@@ -26,14 +26,14 @@ $_PARENT_URL = '/00249-1avtokran-v2';
                         <div class="header__logo">
                             <div class="header__logo-img">
                                 <a href="./">
-                                    <img decoding="async" loading="lazy" src="./assets/img/logo_header.svg" alt="Первый Автокран. Аренда спецтехники в Москве и области">
+                                    <img src="./assets/img/logo_header.svg" alt="Первый Автокран. Аренда спецтехники в Москве и области">
                                 </a>
                             </div>
                             <h2 class="header__logo-desc">Аренда спецтехники в Москве и области</h2>
                         </div>
 
                         <div class="header__advantage">
-                            <div class="header__advantage-icon"><img decoding="async" loading="lazy" src="./assets/img/icon_1.svg" alt="На рынке более 20 лет"></div>
+                            <div class="header__advantage-icon"><img src="./assets/img/icon_1.svg" alt="На рынке более 20 лет"></div>
                             <div class="header__advantage-desc">
                                 <div class="header__advantage-desc-txt">На рынке более 20 лет</div>
                             </div>
@@ -41,7 +41,7 @@ $_PARENT_URL = '/00249-1avtokran-v2';
 
                         <div class="header__mail">
                             <a href="mailto:info@1avtokran.ru">
-                                <div class="header__mail-icon"><img decoding="async" loading="lazy" src="./assets/img/icon_2.svg" alt="почта"></div>
+                                <div class="header__mail-icon"><img src="./assets/img/icon_2.svg" alt="почта"></div>
                                 <div class="header__mail-desc">info@1avtokran.ru</div>
                             </a>
                         </div>
@@ -60,7 +60,7 @@ $_PARENT_URL = '/00249-1avtokran-v2';
                         <div class="header__logo_mob">
                             <div class="header__logo-img">
                                 <a href="./">
-                                    <img decoding="async" loading="lazy" src="./assets/img/logo_footer.svg" alt="Первый Автокран. Аренда спецтехники в Москве и области">
+                                    <img src="./assets/img/logo_footer.svg" alt="Первый Автокран. Аренда спецтехники в Москве и области">
                                 </a>
                             </div>
                             <h2 class="header__logo-desc">Аренда спецтехники в Москве и области</h2>
