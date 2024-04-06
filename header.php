@@ -11,8 +11,8 @@ $_PARENT_URL = '/00249-1avtokran-v2';
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
     <title>Project 00249</title>
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="./assets/libs/slick/slick.min.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="./assets/libs/fancybox/jquery.fancybox.min.css" media="print" onload="this.media='all'">
     <link rel="stylesheet" href="./assets/css/style.css">
 </head>
 

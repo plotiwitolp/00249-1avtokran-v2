@@ -69,9 +69,9 @@
         </div>
     </div>
 </footer>
-<script src="https://code.jquery.com/jquery-3.7.1.min.js" defer></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js" defer></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" defer></script>
+<script src="./assets/libs/jquery/jquery-3.7.1.min.js" defer></script>
+<script src="./assets/libs/slick/slick.min.js" defer></script>
+<script src="./assets/libs/fancybox/jquery.fancybox.min.js" defer></script>
 <script src="./assets/js/script.js" defer></script>
 </body>
 
